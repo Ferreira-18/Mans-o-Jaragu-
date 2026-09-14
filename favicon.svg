@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#15211C"/>
+  <g fill="none" stroke="#D9C078" stroke-width="4.2" stroke-linecap="round">
+    <!-- postes do pergolado -->
+    <path d="M21 46 V20"/>
+    <path d="M43 46 V20"/>
+    <!-- viga superior -->
+    <path d="M16 20 H48"/>
+    <!-- pontas de caibro expostas -->
+    <path d="M16 20 V13.5"/>
+    <path d="M48 20 V13.5"/>
+    <!-- linha do chão / corredor -->
+    <path d="M14 49.5 H50" stroke-width="2.6" opacity=".75"/>
+  </g>
+</svg>
